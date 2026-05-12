@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # event_management
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter-event-management-app
+A Flutter-based event management application for managing events and bookings.
+>>>>>>> 94e8c7c4b12cae81667bbf3b29ce3a42766d9afd
