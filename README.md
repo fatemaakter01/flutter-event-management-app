@@ -1,22 +1,34 @@
-<<<<<<< HEAD
-# event_management
+# Event Management App
 
-A new Flutter project.
+A Flutter-based event management mobile application with Admin and User roles. Users can browse, search, and join events, while admins can create, update, and manage events efficiently.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- User Authentication (Login & Registration)
+- Admin and User Role Management
+- Create, Update, and Delete Events
+- Event Booking System
+- View Event Details
+- Search Events
+- Responsive UI
 
-A few resources to get you started if this is your first Flutter project:
+## Admin Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Add New Events
+- Update Events
+- Delete Events
+- Manage All Events
+- View User Bookings
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# flutter-event-management-app
-A Flutter-based event management application for managing events and bookings.
->>>>>>> 94e8c7c4b12cae81667bbf3b29ce3a42766d9afd
+## User Features
+
+- Browse Events
+- Search Events
+- Book / Join Events
+- View Booking History
+
+## Tech Stack
+
+- Flutter
+- Dart
+- REST API
